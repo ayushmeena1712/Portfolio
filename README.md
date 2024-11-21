@@ -10,7 +10,7 @@
 
 ## Getting started
 ``` bash
-git clone https://github.com/narayan-raghuwanshi/portfolio.git
+git clone https://github.com/ayushmeena1712/Portfolio.git
 ```
 ``` bash
 npm install
