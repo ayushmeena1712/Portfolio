@@ -43,4 +43,18 @@ export const projects: project[] = [
       "3rd Party Backend",
     ],
   },
+  {
+    title: "Portfolio Site",
+    description: "Using the next.js for portfolio",
+    image: "/portfolio.png",
+    repository: "https://github.com/ayushmeena1712/Portfolio.git",
+    deployment: "https://portfolio-eqfzeo192-ayush-meenas-projects-5ed997da.vercel.app/",
+    techUsed: [
+      "Next.js",  
+      "Tailwind CSS",
+      "TypeScript",
+      "JavaScript",
+      "Emailjs",
+    ],
+  },
 ];
