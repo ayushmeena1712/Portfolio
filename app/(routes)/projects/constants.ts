@@ -48,7 +48,8 @@ export const projects: project[] = [
     description: "Using the next.js for portfolio",
     image: "/portfolio.png",
     repository: "https://github.com/ayushmeena1712/Portfolio.git",
-    deployment: "https://portfolio-eqfzeo192-ayush-meenas-projects-5ed997da.vercel.app/",
+    // deployment: "https://portfolio-ayush-meenas-projects-5ed997da.vercel.app/",
+    deployment: "https://portfolio-ayush-meenas-projects-5ed997da.vercel.app//",
     techUsed: [
       "Next.js",  
       "Tailwind CSS",
