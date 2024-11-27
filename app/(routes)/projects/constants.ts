@@ -58,4 +58,16 @@ export const projects: project[] = [
       "Emailjs",
     ],
   },
+  {
+    title: "Socket.io Single Page Application",
+    description: "Using the socket.io making a real time chat application",
+    image: "/socket.jpg",
+    repository: "https://github.com/ayushmeena1712/Application-of-socket-programming-.git",
+    deployment: "https://socket-io-single-page-communcation.onrender.com/",
+    techUsed: [
+      "Html", 
+      "Socket.io", 
+      "Javascript",
+    ],
+  }
 ];
